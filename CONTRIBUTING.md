@@ -5,7 +5,7 @@
 We'd love to accept your sample apps and patches! Before we can take them, we
 have to jump a couple of legal hurdles.
 Please fill out either the individual or corporate Contributor License Agreement
-(CLA).
+(sdfasdfasdfCLA).
 
 * If you are an individual writing original source code and you're sure you
     own the intellectual property, then you'll need to sign an [individual CLA](https://developers.google.com/open-source/cla/individual).
